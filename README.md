@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ovsanikdaniel
-- Ahoj, ja som @ovsanikdaniel celým menom Daniel Ovšanik
-- Som zo Slovenska a občaš pišem kod
+- 👋 Ahoj, ja som @ovsanikdaniel celým menom Daniel Ovšanik
+- 🇸🇰 Som zo Slovenska a občaš pišem kod
 <!---
 - 👀 I’m interested in programming languages which are cool!
 - 🌱 I’m currently learning ...

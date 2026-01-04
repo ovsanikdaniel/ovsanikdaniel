@@ -12,8 +12,7 @@ Som developer zo Slovenska so záujmom najmä menšie webové nástroje a vizual
 ### tar1090 — Custom altitude units (ft + m)
 Tampermonkey userscript pre tar1090-based ADS-B UI (napr. globe.adsbexchange.com), ktorý upraví zobrazenie výšky na `xxx ft / xxx m` a zmení label na `Baro`.
 
-- Repo: https://github.com/ovsanikdaniel/tar1090-Addon-Altitude-Units-feet-meters
-- Tech: JavaScript (userscript)
+- [Repository](https://github.com/ovsanikdaniel/tar1090-altitude-units-userscript)
 
 ## Vybrané súkromné projekty (WIP - čoskoro verejne)
 - Mapová vizualizácia **LRRP pozícií z DMR siete** (filtre, história pohybu, exporty)

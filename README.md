@@ -24,10 +24,3 @@ Tampermonkey userscript pre tar1090-based ADS-B UI (napr. globe.adsbexchange.com
 ## Súkromné projekty (WIP)
 - Mapová vizualizácia **LRRP pozícií z DMR siete**
 - Mapová vizualizácia povolenych stanic z Telekomunikačného úradu
-
----
-
-## Kontakt
-- GitHub: Issues v príslušnom repozitári
-- Web: **ovsanikdaniel.sk**
-- [Telegram](http://t.me/ovsanikdaniel)

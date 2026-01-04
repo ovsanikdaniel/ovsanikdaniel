@@ -1,12 +1,33 @@
-- 👋 Ahoj, ja som @ovsanikdaniel celým menom Daniel Ovšanik
-- 🇸🇰 Som zo Slovenska a občaš pišem kod
-<!---
-- 👀 I’m interested in programming languages which are cool!
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Daniel Ovšanik (@ovsanikdaniel)
 
+Som developer zo Slovenska so záujmom o **SDR** a digitálne rádiové siete (**DMR**, **TETRA**). Venujem sa najmä **web vývoju** a **vizualizácii dát** – hlavne v HTML mapách (geodata, trackovanie, časové rady).
 
-ovsanikdaniel/ovsanikdaniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## Fokus
+- **SDR / RF monitoring** (hobby, experimenty, tooling)
+- **DMR & TETRA siete** (analýza, metadata, pozície, workflow okolo logov)
+- **Web development** (front-end, UI, malé utilitky)
+- **Data vizualizácia v mapách** (HTML/JS, mapové vrstvy, timeline)
+
+---
+
+## Verejné projekty
+### tar1090 — Custom altitude units (ft + m)
+Tampermonkey userscript pre tar1090-based ADS-B UI (napr. globe.adsbexchange.com), ktorý upraví zobrazenie výšky na formát `xxx ft / xxx m` a zmení label na `Baro`.
+
+- Repo: **tar1090-Addon-Altitude-Units-feet-meters**
+- Tech: JavaScript (userscript)
+
+---
+
+## Súkromné projekty (WIP)
+- Mapová vizualizácia **LRRP pozícií z DMR siete**
+- Mapová vizualizácia povolenych stanic z Telekomunikačného úradu
+
+---
+
+## Kontakt
+- GitHub: Issues v príslušnom repozitári
+- Web: **ovsanikdaniel.sk**
+- [Telegram](http://t.me/ovsanikdaniel)
